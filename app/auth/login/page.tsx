@@ -4,7 +4,6 @@ import {hasEnvVars} from "@/lib/utils";
 import {EnvVarWarning} from "@/components/env-var-warning";
 import {AuthButton} from "@/components/auth-button";
 import {ThemeSwitcher} from "@/components/theme-switcher";
-import {SignUpForm} from "@/components/sign-up-form";
 
 export default function Page() {
   return (
